@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/mert-akbiyik](https://www.linkedin.com/in/mert-akbiyik)
 
-- 💬 Ask me about **C++ and C#**
+- 💬 Ask me about **C# and C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
